@@ -1,0 +1,27 @@
+/* here we go */
+html {
+  font-size: 18px;
+}
+
+div.sitecontainer {
+  width: 960px;
+}
+
+div.logo {
+  height: 1.5rem;
+}
+
+h2.logo {
+  font-family: Helvetica;
+  font-size: 1rem;
+}
+
+div.mainbanner {
+  height: 25rem;
+}
+
+div.webtitle {
+  font-family: Helvetica;
+  font-size: 1rem;
+  font-weight: bold;
+}
